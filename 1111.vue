@@ -8,7 +8,7 @@
 
 <template>
   <div>
-    $END$7777
+    $END$7777-99999
   </div>
 </template>
 
